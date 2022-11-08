@@ -1,0 +1,5 @@
+argparse
+requests
+urllib3
+colored
+partial
