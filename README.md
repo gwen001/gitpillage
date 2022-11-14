@@ -2,6 +2,16 @@
 
 Extract data from a `.git` directory.
 
+## Install
+
+```
+git clone https://github.com/gwen001/gitpillage
+cd gitpillage
+pip3 install -r requirements.txt
+```
+
+## Usage
+
 ```
 $ python3 gitpillage.py -u https://www.example.com/.git/ -t 10
 ```
