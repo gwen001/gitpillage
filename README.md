@@ -32,3 +32,10 @@ options:
 ```
 
 <img src="https://raw.githubusercontent.com/gwen001/gitpillage/main/preview.png" />
+
+---
+
+I don't believe in license.  
+You can do whatever you want with this program.
+
+
