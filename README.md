@@ -1,5 +1,6 @@
 # gitpillage
 
+![python badge](https://img.shields.io/badge/python-v3-blue)
 Extract data from a `.git` directory.
 
 ## Install
