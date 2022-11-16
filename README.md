@@ -10,6 +10,12 @@
     <a href="https://twitter.com/intent/tweet?text=https%3a%2f%2fgithub.com%2fgwen001%2fgitpillage%2f" target="_blank"><img src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fgithub.com%2Fgwen001%2Fgitpillage" alt="twitter badge"></a>
 </p>
 
+<p align="center">
+    <img src="https://img.shields.io/github/stars/gwen001/gitpillage?label=Fork" alt="github forks badge">
+    <img src="https://img.shields.io/github/stars/gwen001/gitpillage?style=social" alt="github stars badge">
+    <img src="https://img.shields.io/github/stars/gwen001/gitpillage?label=Watch" alt="github watchers badge">
+</p>
+
 ---
 
 ## Install
