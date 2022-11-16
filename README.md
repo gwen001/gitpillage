@@ -1,6 +1,6 @@
 # gitpillage
 
-![python badge](https://img.shields.io/badge/python-v3-blue)  ![python badge](https://img.shields.io/badge/python-v3-blue)  
+![python badge](https://img.shields.io/badge/python-v3-blue)  ![license MIT badge](https://img.shields.io/badge/license-MIT-green)  
 Extract data from a `.git` directory.
 
 ## Install
