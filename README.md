@@ -1,8 +1,8 @@
 # gitpillage
 
-![python badge](https://img.shields.io/badge/python-v3-blue)
-![license MIT badge](https://img.shields.io/badge/license-MIT-green)
-[![twitter badge](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fgithub.com%2Fgwen001%2Fgitpillage)](https://twitter.com/intent/tweet?text=https%3a%2f%2f10degres.net%2fcve-demystified%2f)  
+<img src="https://img.shields.io/badge/python-v3-blue" alt="python badge">
+<img src="https://img.shields.io/badge/license-MIT-green" alt="MIT license badge">
+<a href="https://twitter.com/intent/tweet?text=https%3a%2f%2fgithub.com%2fgwen001%2fgitpillage%2f" target="_blank"><img src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fgithub.com%2Fgwen001%2Fgitpillage" alt="twitter badge"></a>
 
 Extract data from a `.git` directory.
 
