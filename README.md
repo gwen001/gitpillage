@@ -42,7 +42,9 @@ options:
 ```
 
 ---
+
 <img src="https://raw.githubusercontent.com/gwen001/gitpillage/main/preview.png" />
+
 ---
 
 Feel free to [open an issue](/../../issues/) if you have any problem with the script.  
