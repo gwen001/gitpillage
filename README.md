@@ -13,7 +13,7 @@
 <p align="center">
     <img src="https://img.shields.io/github/stars/gwen001/gitpillage?style=social" alt="github stars badge">
     <img src="https://img.shields.io/github/watchers/gwen001/gitpillage?style=social" alt="github watchers badge">
-    <img src="https://img.shields.io/github/forks/gwen001/gitpillage?label=social" alt="github forks badge">
+    <img src="https://img.shields.io/github/forks/gwen001/gitpillage?style=social" alt="github forks badge">
 </p>
 
 ---
