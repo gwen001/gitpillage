@@ -17,6 +17,10 @@
 
 ---
 
+## Description
+
+This Python tool extracts data from an exposed `.git` directory. It's usually used to get the source code of a webapp or find sensitive files.
+
 ## Install
 
 ```
